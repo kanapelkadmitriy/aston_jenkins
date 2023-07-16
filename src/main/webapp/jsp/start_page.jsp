@@ -4,6 +4,6 @@
     <title>Start Page</title>
 </head>
 <body>
-    It is a start page
+    It is a start page!
 </body>
 </html>
